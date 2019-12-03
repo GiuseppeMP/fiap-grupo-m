@@ -1,6 +1,6 @@
-<mxfile modified="2019-12-03T03:12:24.988Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="6_rbMd2kSZ1794oRavJn" version="12.3.5" type="github" pages="2">
+<mxfile modified="2019-12-03T03:12:57.340Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="tqURZn9SS2ttplMxEWSK" version="12.3.5" type="github" pages="2">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="The Business Model Canvas">
-    <mxGraphModel dx="3446" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3764" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -74,11 +74,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mQGApk8baVR1JqvsF_KI" name="Vision">
-    <mxGraphModel dx="1108" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NGLXr6QBE0B2UHdIiDb8-0"/>
         <mxCell id="NGLXr6QBE0B2UHdIiDb8-1" parent="NGLXr6QBE0B2UHdIiDb8-0"/>
-        <mxCell id="NGLXr6QBE0B2UHdIiDb8-2" value="Teste" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NGLXr6QBE0B2UHdIiDb8-1">
+        <mxCell id="NGLXr6QBE0B2UHdIiDb8-2" value="Teste 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="NGLXr6QBE0B2UHdIiDb8-1" vertex="1">
           <mxGeometry x="180" y="150" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
