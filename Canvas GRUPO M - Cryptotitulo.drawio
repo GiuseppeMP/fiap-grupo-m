@@ -1,6 +1,6 @@
-<mxfile modified="2019-12-03T03:24:18.853Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="AsbMapeDOFBep53w5nix" version="12.3.5" type="github" pages="2">
+<mxfile modified="2019-12-03T03:26:13.096Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="IADvOhsMraOv5XuilVTc" version="12.3.5" type="github" pages="2">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="The Business Model Canvas">
-    <mxGraphModel dx="3764" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4554" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -28,7 +28,7 @@
         <mxCell id="705" value="&lt;div&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Channels&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pagadores/Cobrados propaganda media/internet?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Empresas emissoras de crypboleto?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;???&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TODO &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
           <mxGeometry x="-950" y="670" width="420" height="450" as="geometry"/>
         </mxCell>
-        <mxCell id="706" value="&lt;div style=&quot;font-size: 26px&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Cost Structure&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;??" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
+        <mxCell id="706" value="&lt;div style=&quot;font-size: 26px&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Cost Structure&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Indefinido" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
           <mxGeometry x="-2210" y="1120" width="1050" height="330" as="geometry"/>
         </mxCell>
         <mxCell id="707" value="&lt;div style=&quot;font-size: 26px&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Revenue Streams&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cobradores iriam possuir valores sobre títulos emitidos, ou cryptoboletos criados.&lt;/div&gt;&lt;div&gt;Pagantes em primeiro T0 estratégia não teriam custos de uso.&lt;/div&gt;&lt;div&gt;Pagantes futuramente poderiam ter uma taxa parecida com picpay quando usassem cŕedito e não saldo de título ou cryptomoedas.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
@@ -74,27 +74,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mQGApk8baVR1JqvsF_KI" name="Product Vision Board">
-    <mxGraphModel dx="3976" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4397" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NGLXr6QBE0B2UHdIiDb8-0"/>
         <mxCell id="NGLXr6QBE0B2UHdIiDb8-1" parent="NGLXr6QBE0B2UHdIiDb8-0"/>
         <mxCell id="nUK60ZJ4akdMgsGpRx2s-0" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e8edf0;fontSize=60;fontColor=#2F5B7C;align=left;" vertex="1" parent="NGLXr6QBE0B2UHdIiDb8-1">
-          <mxGeometry x="-2280" y="80" width="1780" height="944" as="geometry"/>
+          <mxGeometry x="-2280" y="80" width="1780" height="820" as="geometry"/>
         </mxCell>
         <mxCell id="nUK60ZJ4akdMgsGpRx2s-1" value="&lt;div style=&quot;font-size: 26px&quot;&gt;Product&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" vertex="1" parent="NGLXr6QBE0B2UHdIiDb8-1">
-          <mxGeometry x="-968.5" y="524.5" width="420" height="450" as="geometry"/>
+          <mxGeometry x="-968" y="427" width="420" height="444" as="geometry"/>
         </mxCell>
-        <mxCell id="nUK60ZJ4akdMgsGpRx2s-2" value="&lt;font&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Vision&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Mercado Bitcoin?&lt;br style=&quot;font-size: 12px&quot;&gt;Brasil Bitcoin?&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;A combinação da solução de títulos blockchain com bitcoins&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Pagamento de títulos utilizando criptomoedas&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Difusão da tecnologia do mercado Blockchain.&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Motivations for partnerships&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Otimização da economia cripto.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Infraestrutura das tecnologia cripto.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Redução de risco adrência tecnologia cripto.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Os avanços da tecnologia blockchain no Brazil favorecem todos envolvidos. &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Pressão para regularização da tecnologia.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" vertex="1" parent="NGLXr6QBE0B2UHdIiDb8-1">
+        <mxCell id="nUK60ZJ4akdMgsGpRx2s-2" value="&lt;font&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Vision&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" vertex="1" parent="NGLXr6QBE0B2UHdIiDb8-1">
           <mxGeometry x="-2230" y="220" width="1680" height="200" as="geometry"/>
         </mxCell>
-        <mxCell id="nUK60ZJ4akdMgsGpRx2s-3" value="&lt;font&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Target Group&lt;/font&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;&lt;font&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;div&gt;Pagamento de boletos tempo real.&lt;/div&gt;&lt;div&gt;Transferência de Criptotítulos.&lt;/div&gt;&lt;div&gt;Rastreamento de Criptotítulos cobrador/pagante&lt;br&gt;&lt;/div&gt;&lt;div&gt;Transação de títulos tempo real em diversas moedas, incluindo crypto moedas.&lt;/div&gt;&lt;div&gt;Adeus boletos de cobrança/correio demora entrega cobranças;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;&lt;b&gt;Categories&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tecnologia Blockchain&lt;br&gt;&lt;/div&gt;&lt;div&gt;Validações de titulos/boletos e rastreamento tempo real.&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cryptboleto, boleto/titulos 100% DIGITAL&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" vertex="1" parent="NGLXr6QBE0B2UHdIiDb8-1">
-          <mxGeometry x="-2230" y="524" width="420" height="445" as="geometry"/>
+        <mxCell id="nUK60ZJ4akdMgsGpRx2s-3" value="&lt;font&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Target Group&lt;/font&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;&lt;font&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" vertex="1" parent="NGLXr6QBE0B2UHdIiDb8-1">
+          <mxGeometry x="-2230" y="426" width="420" height="445" as="geometry"/>
         </mxCell>
         <mxCell id="nUK60ZJ4akdMgsGpRx2s-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Business Goals&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" vertex="1" parent="NGLXr6QBE0B2UHdIiDb8-1">
-          <mxGeometry x="-1810" y="524" width="420" height="445" as="geometry"/>
+          <mxGeometry x="-1810" y="426" width="420" height="445" as="geometry"/>
         </mxCell>
         <mxCell id="nUK60ZJ4akdMgsGpRx2s-5" value="&lt;div style=&quot;font-size: 26px&quot;&gt;Needs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" vertex="1" parent="NGLXr6QBE0B2UHdIiDb8-1">
-          <mxGeometry x="-1390" y="524" width="420" height="450" as="geometry"/>
+          <mxGeometry x="-1390" y="426" width="420" height="444" as="geometry"/>
         </mxCell>
         <mxCell id="nUK60ZJ4akdMgsGpRx2s-10" value="The Product Vision Board" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=60;fontColor=#2F5B7C;" vertex="1" parent="NGLXr6QBE0B2UHdIiDb8-1">
           <mxGeometry x="-2225" y="130" width="730" height="70" as="geometry"/>
@@ -103,25 +103,22 @@
           <mxGeometry x="-614" y="250" width="35" height="28" as="geometry"/>
         </mxCell>
         <mxCell id="nUK60ZJ4akdMgsGpRx2s-13" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=3;strokeColor=none;fillColor=#2F5B7C;shadow=0;dashed=0;shape=mxgraph.ios7.icons.heart;fontSize=12;fontColor=#2F5B7C;align=left;" vertex="1" parent="NGLXr6QBE0B2UHdIiDb8-1">
-          <mxGeometry x="-1029.9999999999995" y="556" width="41" height="36" as="geometry"/>
+          <mxGeometry x="-1029.9999999999995" y="458" width="41" height="36" as="geometry"/>
         </mxCell>
         <mxCell id="nUK60ZJ4akdMgsGpRx2s-14" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.mscae.cloud.data_factory;fillColor=#2F5B7C;labelBackgroundColor=none;fontSize=10;fontColor=#2F5B7C;align=left;" vertex="1" parent="NGLXr6QBE0B2UHdIiDb8-1">
-          <mxGeometry x="-1460" y="544" width="50" height="50" as="geometry"/>
+          <mxGeometry x="-1460" y="446" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="nUK60ZJ4akdMgsGpRx2s-22" value="" style="shape=mxgraph.signs.travel.present;html=1;fillColor=#2F5B7C;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;shadow=0;labelBackgroundColor=none;fontSize=12;fontColor=#2F5B7C;" vertex="1" parent="NGLXr6QBE0B2UHdIiDb8-1">
-          <mxGeometry x="-610" y="549" width="31" height="40" as="geometry"/>
+          <mxGeometry x="-610" y="451" width="31" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="nUK60ZJ4akdMgsGpRx2s-25" value="" style="group" connectable="0" vertex="1" parent="NGLXr6QBE0B2UHdIiDb8-1">
-          <mxGeometry x="-1890" y="554" width="60" height="40" as="geometry"/>
+        <mxCell id="nUK60ZJ4akdMgsGpRx2s-25" value="" style="group" vertex="1" connectable="0" parent="NGLXr6QBE0B2UHdIiDb8-1">
+          <mxGeometry x="-1890" y="456" width="60" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="nUK60ZJ4akdMgsGpRx2s-26" value="" style="shadow=0;dashed=0;html=1;strokeColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shape=mxgraph.office.users.user;fillColor=#2F5B7C;labelBackgroundColor=none;fontSize=10;fontColor=#000000;align=left;strokeWidth=2;" vertex="1" parent="nUK60ZJ4akdMgsGpRx2s-25">
           <mxGeometry x="26.956521739130434" y="-4" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="nUK60ZJ4akdMgsGpRx2s-27" value="" style="shadow=0;dashed=0;html=1;strokeColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shape=mxgraph.office.users.user;fillColor=#2F5B7C;labelBackgroundColor=none;fontSize=10;fontColor=#000000;align=left;strokeWidth=2;" vertex="1" parent="nUK60ZJ4akdMgsGpRx2s-25">
           <mxGeometry width="40" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="JwDsMiNaQr_DyVWwyMg2-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="NGLXr6QBE0B2UHdIiDb8-1" source="nUK60ZJ4akdMgsGpRx2s-2" target="nUK60ZJ4akdMgsGpRx2s-2">
-          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
